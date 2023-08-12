@@ -1,0 +1,24 @@
+I am strictly advising you to follow the pdf file I have given on Github a video will be uploaded on youtube channel: youtube.com/@AyanUtech
+Important Instructions!:
+
+• You might have a NodeMCU 1.0, so to check which Esp8266 you are using check the name on the chip if the name on it is the Esp-12F,
+it is the Generic Esp8266 else if it is has the Esp8266MOD chip it is probably the NodeMCU 1.0 (Esp-12E)
+
+• You should have the Blynk library- by Volodymyr Shymansky download on your arduino as well as the Esp8266 board manager, if you 
+haven't done so, then use this link to learn how to do so: https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/
+
+• Its recommended to download the Arduino IDE 1.8.19, because the latest IDE, which is currently 2.1.1 is very buggy and will 
+always show you errors, the latest IDEs now matter what always show you errors.
+
+• You can also contact me for help at: ayanzeeshan2158@gmail.com or +92 333 0300310 or if you want to take a robotronics and then and IoT
+course from me too.
+
+• Also, It is compulsory for you to use the rubber or silicon gloves for proper insulation.
+
+• You must use the help of an adult, if you are a minor or underage (to be precise).
+
+• And lastly if you wish to put the wire from light bulb to relay into the NC pin, just replace the functions: digitalWrite(Led, HIGH); and
+digitalWrite(Led, HIGH); with each other in the if(param.asInt()==1){} condition.
+
+• And also I know I am going off topic but I am internationally certified by the University of Michigan and Irvine. You can check my certificates
+here: https://coursera.org/verify/HT96JWBLHM3H and https://coursera.org/verify/KHZ8ULQMYUMG .
